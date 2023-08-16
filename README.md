@@ -34,13 +34,13 @@ This Appraisal System is designed to help companies manage the evaluation proces
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/appraisal-system.git
+   git clone https://github.com/Mahmoud72E/Istrotech_Task.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd appraisal-system
+   cd Istrotech_Task
    ```
 
 3. Install the dependencies:
@@ -78,4 +78,4 @@ This Appraisal System is designed to help companies manage the evaluation proces
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/appraisal-system/issues) or submit a pull request.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Mahmoud72E/Istrotech_Task/issues) or submit a pull request.
